@@ -1,4 +1,5 @@
-#  Camera USB3 Vision Live Stream Viewer
+
+#  USB3-Vision-Camera-Viewer_Aravis
 ## u3v_viewer_v2
 Drives a Hikvision USB3 Vision industrial camera via Aravis, providing live
 preview, parameter adjustment, snapshot, and recording features.
